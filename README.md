@@ -3,9 +3,9 @@
 
 Assignment| link |
 ----------| ----- |
-reading01 | [reading01.md](reading01) |
-reading02a | [reading02a.md](reading02a)|
-reading02b | [reading02b.md](reading02b)|
-reading03 | [reading03](reading03)|
+reading01 | [reading01](reading01.md) |
+reading02a | [reading02a](reading02a.md)|
+reading02b | [reading02b](reading02b.md)|
+reading03 | [reading03](reading03.md)|
 
 
