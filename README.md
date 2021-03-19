@@ -3,9 +3,9 @@
 
 Assignment| link |
 ----------| ----- |
-reading01 | [reading01](reading01.md) |
-reading02a | [reading02a](reading02a.md)|
-reading02b | [reading02b](reading02b.md)|
-reading03 | [reading03](reading03.md)|
-reading04 | [reading04](reading04.md)|
+reading01 | [The Coder’s Computer](reading01.md) |
+reading02a | [Learning Markdown](reading02a.md)|
+reading02b | [Revisions and the Cloud](reading02b.md)|
+reading03 | [Structure web pages with HTML](reading03.md)|
+reading04 | [Programming with JavaScript](reading04.md)|
 
