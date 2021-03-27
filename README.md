@@ -1,12 +1,9 @@
 # This is the home page of Ala Taamneh reading notes.
-## Ala is a mechanical engineer who is looking to learn about some programing language such as html , js , css.
+## Ala is a mechanical engineer who is looking to learn some programing language such as HTML , JS , CSS. 
 
-Assignment| link |
-----------| ----- |
-reading01 | [The Coder’s Computer](reading01.md) |
-reading02a | [Learning Markdown](reading02a.md)|
-reading02b | [Revisions and the Cloud](reading02b.md)|
-reading03 | [Structure web pages with HTML](reading03.md)|
-reading04 | [Programming with JavaScript](reading04.md)|
-reading05 | [Operators and Loops](reading05.md)|
-reading06 | [Design web pages with CSS](reading06.md)|
+
+
+* [Code102](code102.md) 
+* [Code201](code201.md)
+
+![home](https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80)
