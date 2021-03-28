@@ -21,7 +21,7 @@ reading06 | [Design web pages with CSS](code102/reading06.md)|
 Assignment| link |
 ----------| ----- |
 reading01 | [Introductory HTML and JavaScript](code201/201read01.md)|
-reading02 | [#](#)|
+reading02 | [Basics of HTML, CSS & JS](code201/201read02.md)|
 reading03 | [#](#)|
 reading04 | [#](#)|
 reading05 | [#](#)|
